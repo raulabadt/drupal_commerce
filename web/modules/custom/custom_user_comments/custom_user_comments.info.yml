@@ -1,0 +1,10 @@
+name: 'Custom User Comments'
+type: module
+description: 'Bloque custom para mostrar estadísticas y comentarios de un usuario.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - node:node
+  - comment:comment
+  - user:user
+version: 1.0
